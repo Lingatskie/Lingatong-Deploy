@@ -32,6 +32,11 @@ body{
   background-color: #FE5009;
   border: solid #FE5009;
   font-family: "Poppins";
+  border: none;
+}
+.up button:hover{
+  background-color: #fa751c;
+  color: black;
 }
 .pic1{
   width :250px;
@@ -110,11 +115,27 @@ body{
   background-color: #FE5009;
   border: solid #FE5009;
   font-family: "Poppins";
+  border: none;
+  
 }
 .Button2{
   float:left;
   padding-left: 17%;
   margin-bottom: 10%;
+  border: none;
+}
+.Button1 button:hover{
+  background-color: #fa751c;
+  color: black;
+}
+.Button2 button:hover{
+  background-color: #fa751c;
+  color: black;
+  border: none;
+}
+.Button3 button:hover{
+  background-color: #fa751c;
+  color: black;
 }
 .Button2 button{
   padding:10px;
@@ -122,11 +143,13 @@ body{
   background-color: #FE5009;
   border: solid #FE5009;
   font-family: "Poppins";
+  border: none;
 }
 .Button3{
   float: left;
   padding-left: 17%;
   margin-bottom: 10%;
+  border: none;
 }
 .Button3 button{
   padding:10px;
@@ -134,4 +157,5 @@ body{
   background-color: #FE5009;
   border: solid #FE5009;
   font-family: "Poppins";
+  border: none;
 }

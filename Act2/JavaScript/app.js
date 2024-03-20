@@ -14,7 +14,7 @@ const two={
   p3:"Jamille Fumah (@JFStories) is one of the most exciting Wattpad writers in the Philippines, with 1.5 million followers on the platform. With more than 30 stories published on Wattpad, her work has accumulated more than 336 million total reads.3" ,
   image1:"Jonaxx.jpg",
   image2:"Knight.jpg",
-  image3:"jamille.jpg",
+  image3:"Jammile.jpg",
   Btn1:"Read more",
   Btn2:"Read more",
   Btn3:"Read more",

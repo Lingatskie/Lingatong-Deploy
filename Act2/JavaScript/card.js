@@ -2,7 +2,6 @@ const down=(Header)=>{
   let div =document.createElement("div")
   div.className="Title"
   div.innerHTML=`<h1>${Header}</h1>
-  
   `
  return div
 }
